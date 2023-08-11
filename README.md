@@ -91,7 +91,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 ```sh
   cd catalog-of-my-things
-  git git@github.com:MarcoDiaz2000/catalog-of-my-things.git
+  git git@github.com:tamoorsaeed22/catalog-of-my-things.git
 ```
 
 
